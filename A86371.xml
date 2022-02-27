@@ -1,0 +1,459 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hipp-anthropos: or, an ironicall expostulation with death and fate, for the losse of the late Lord Mayor of London; who on Friday October 27. 1648. expired together with his office; and both he and his bay-horse di'd o'th' sullens. VVhereunto is annexed an epitaph both on Mayor and horse. Also a dialogicall brief discourse held octob. 29 between Col. Rainsborough and Charon, at their meeting. Composed by Philanar and Misostratus, two London-apprenticces' once in-counter'd last yeer for their loyalty.</title>
+            <title>Hipp-anthropos.</title>
+            <author>Philanar and Misostratus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86371</idno>
+            <idno type="STC">Wing H2069</idno>
+            <idno type="STC">Thomason E472_18</idno>
+            <idno type="STC">ESTC R205800</idno>
+            <idno type="EEBO-CITATION">99865067</idno>
+            <idno type="PROQUEST">99865067</idno>
+            <idno type="VID">117302</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86371)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117302)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E472[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hipp-anthropos: or, an ironicall expostulation with death and fate, for the losse of the late Lord Mayor of London; who on Friday October 27. 1648. expired together with his office; and both he and his bay-horse di'd o'th' sullens. VVhereunto is annexed an epitaph both on Mayor and horse. Also a dialogicall brief discourse held octob. 29 between Col. Rainsborough and Charon, at their meeting. Composed by Philanar and Misostratus, two London-apprenticces' once in-counter'd last yeer for their loyalty.</title>
+                  <title>Hipp-anthropos.</title>
+                  <author>Philanar and Misostratus.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Printed, Anno exulantis Monarchiæ 8. Anno Domini 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first word of the title is transliterated from the Greek characters.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rainborow, Thomas, d. 1648.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+               <term>London (England) --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117302:1" rendition="simple:additions"/>
+            <p>ΙΠΠ-ΑΝΘΡΩΠΟΣ:
+<hi>OR, AN</hi> Ironicall Expoſtulation WITH <hi>DEATH and FATE,</hi> For the Loſſe of The late <hi>Lord Mayor</hi> of LONDON; Who on Friday October 27.
+1648. expired to<g ref="char:EOLhyphen"/>gether with his Office; and both <hi>He</hi> and his
+<hi>Bay-Horſe</hi> di'd o'th' <hi>Sullens.</hi>
+            </p>
+            <p>VVhereunto is annexed an Epitaph both on <hi>Mayor</hi> and
+<hi>Horſe.</hi>
+            </p>
+            <p>Alſo a Dialogicall brief Diſcourſe held Octob. 29 between Col. <hi>Rainsborough</hi> and <hi>Charon,</hi> at their Meeting.</p>
+            <p>Compoſed by <hi>Philanar</hi> and <hi>Miſoſtratus,</hi> two London-Apprentices once in-Counter'd laſt yeer for their
+<hi>Loyalty.</hi>
+            </p>
+            <q>
+               <hi>Si Cato reddatur, Caeſarianus erit.</hi> Martial.</q>
+            <p>Printed, <hi>Anno exulantis Monarchiae</hi> 8. Anno Domini
+1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="eulogy">
+            <pb n="1" facs="tcp:117302:2"/>
+            <head>ΙΠΠ-ΑΝΘΡΩΠΟΣ:
+<hi>OR,</hi> An Ironicall Expoſtulation with <hi>Death</hi> and
+<hi>Fate,</hi> for the loſſe of the late Lord Mayor of London.</head>
+            <lg>
+               <l>
+                  <hi>FOrtune,</hi> thou art a <hi>Whore;</hi> and
+<hi>Death,</hi> thou art</l>
+               <l>('Tis to be fear'd) a Cavaleer in <hi>Heart:</hi>
+               </l>
+               <l>You, that ſo formall ſtand with <hi>Scythe</hi> and
+<hi>Glaſſe,</hi>
+               </l>
+               <l>Think not in private with our <hi>Lord</hi> to paſſe,</l>
+               <l>Was there but <hi>one</hi> choice peice? <hi>one</hi> dainty bit,</l>
+               <l>And your <hi>leane</hi> ugly <hi>Jaws</hi> muſt fall on
+<hi>it?</hi>
+               </l>
+               <l>Were there not <hi>Dray-men, Butchers,</hi> plump and fat,</l>
+               <l>But you muſt pick a <hi>Weaſle</hi> out, a
+<hi>Rat?</hi>
+               </l>
+               <l>Was it you took a liking to the Elfe,</l>
+               <l>For his Complexion, 'twas ſo like your ſelfe?</l>
+               <l>Or for your <hi>Eaſe,</hi> left a more weighty pack</l>
+               <l>Should in the tranſportation break your back?</l>
+               <l>Was it you found him grating of a ſcuil</l>
+               <l>Which you might call your owne, you did him cull?</l>
+               <l>Or that his ſoveraign
+<note n="*" place="margin">He was a Druggiſt in Bucklers Berry.</note> 
+                  <hi>Drugs</hi> reſtor'd a Brother,</l>
+               <l>That through an <hi>Hurdle</hi> ſuckt (you'l ſay) his Mother?</l>
+               <l>Was it you came before his Plots were ripe,</l>
+               <l>And he refus'd to ask you, <hi>ſmoake a Pipe?</hi>
+               </l>
+               <l>If none of theſe, why then ſo <hi>haſty,</hi> Death?</l>
+               <l>What, not afford a Lord <hi>Mayor two daies</hi> breath?</l>
+               <l>When the <hi>Potato-Pies,</hi> and <hi>Capons</hi> were</l>
+               <l>Bought, and in readineſſe to <hi>end</hi> the
+<hi>year?</hi>
+               </l>
+               <l>If 'twas his lot to die, well; elſe 'twas baſe,</l>
+               <l>To cull a Magiſtrate for's <hi>Chain,</hi> or
+<hi>Mace.</hi>
+               </l>
+               <l>This was plain <hi>Tyranny,</hi> we cannot blame</l>
+               <l>Him for an <hi>Independent,</hi> when you came.</l>
+               <pb n="2" facs="tcp:117302:3"/>
+               <l>Reſtore him to us; ſure 'twas a miſtake,</l>
+               <l>King <hi>Noll</hi> and's Kindred elſe will make you quake.</l>
+               <l>Was it for this he did ſo long oppoſe</l>
+               <l>
+                  <hi>Monarchy,</hi> and <hi>Princes,</hi> to be led by th' Noſe,</l>
+               <l>And ſhown in <hi>Pluto's</hi> Court, with O yes! here</l>
+               <l>Comes my Lord <hi>Mayre and's Horſe;</hi> provide um cheere?</l>
+               <l>Was it for this he became <hi>Pimp,</hi> to th' State,</l>
+               <l>And to admit their Army op'd the Gate?</l>
+               <l>While in Triumphant manner they beſtrid</l>
+               <l>London, like <hi>George on Horſeback,</hi> as they rid?</l>
+               <l>Was it for preſervation of the <hi>flock,</hi>
+               </l>
+               <l>So many o'th' <hi>wicked</hi> he condemn'd to th' Block?</l>
+               <l>And with his ſword of <hi>Power</hi> cut in two</l>
+               <l>What neither <hi>Law</hi> nor <hi>Justice</hi> e're could do?</l>
+               <l>O Death! thou art <hi>ungratefull;</hi> he has ſent</l>
+               <l>More to thee in one yeare then th' <hi>Plague</hi> or
+<hi>Lent.</hi>
+               </l>
+               <l>By <hi>Proclamations,</hi> by <hi>Collections</hi> too</l>
+               <l>'Gainſt th' <hi>Common Enemy</hi> what e're would do.</l>
+               <l>I ſay again, reſtore, or wee'l appeale</l>
+               <l>And have you put down <hi>Traytor</hi> under ſeale.</l>
+               <l>Say Mr. Speaker, is't not <hi>Treaſon</hi> ſcan'd,</l>
+               <l>For Death t' <hi>arrest</hi> a Member <hi>under hand</hi>
+               </l>
+               <l>And without th' <hi>Houſes</hi> leave? — I know 'tis ſo,</l>
+               <l>Youl find it — <hi>Caroli Viceſimo.</hi>
+               </l>
+               <l>Is't not againſt an <hi>Order</hi> lately made,</l>
+               <l>All <hi>Members</hi> to be <hi>free,</hi> their debts unpaid?</l>
+               <l>Did they not pitch upon a day, to wit,</l>
+               <l>
+                  <hi>Doomsday</hi> ith' Afternoon to think on it?</l>
+               <l>But all this will not do: hee's gon to tell</l>
+               <l>
+                  <hi>Hampden</hi> and <hi>Brooks,</hi> and <hi>Pym</hi> the Newes in Hell.</l>
+               <l>How there is <hi>Peace</hi> (God bleſſe us) coming on</l>
+               <l>(That Antichriſtian brat of Babylon)</l>
+               <l>When 'tis againſt his <hi>Conſcience</hi> to ſubmit</l>
+               <l>Or have a <hi>finger</hi> in reſtoring it.</l>
+               <l>Would not the world cry ſhame,
+<note place="margin">Mr. War<g ref="char:EOLhyphen"/>ner.</note> ſhould he accord</l>
+               <l>VVho in his <hi>Name</hi> has <hi>War,</hi> and's
+<hi>Armes</hi> the ſword?</l>
+               <l>Hee's gon to tell them of a certain thing</l>
+               <l>Coming to London, whom men call the <hi>King:</hi>
+               </l>
+               <pb n="3" facs="tcp:117302:3"/>
+               <l>Whoſe Scepter will out-ſway, and bring in thrall</l>
+               <l>Th'eſtabliſh'd Government <hi>Anarchicall.</hi>
+               </l>
+               <l>And with his Radiant luſtre quite diſpell</l>
+               <l>What for theſe <hi>ſeven years</hi> has been hatch'd in
+<hi>Hell.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yet let none ſay he's broke or run away,</l>
+               <l>But (as the wiſer call't) he did <hi>convey</hi>
+               </l>
+               <l>Himſelfe into a <hi>Church,</hi> in policie,</l>
+               <l>Where he was ſure none would ſuſpect him lie.</l>
+               <l>No clamorous <hi>Bell</hi> pronounce his fall, no
+<hi>Gun,</hi>
+               </l>
+               <l>He was no <hi>Warriar,</hi> nor no <hi>Whittington.</hi>
+               </l>
+               <l>(Only the joviall <hi>Butchers</hi> (in the Stocks)</l>
+               <l>Gave him a diſmall peale with cleaver-knocks.)</l>
+               <l>Let him ſans <hi>Common-Prayer</hi> in ſilence paſſe,</l>
+               <l>Be buried with the buriall of an <hi>Aſse.</hi>
+               </l>
+               <l>So farewell <hi>horſe</hi> and <hi>man,</hi> dead and forgot,</l>
+               <l>Both infamous let both together <hi>rot.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Rejoyce <hi>Apprentices,</hi> your day is come</l>
+               <l>No more to ſtand in fear of <hi>Martyrdome:</hi>
+               </l>
+               <l>No more ſhall yee to <hi>Bridewell</hi> go, and pay</l>
+               <l>For your extravagance the <hi>laſt Lords day.</hi>
+               </l>
+               <l>Now ye may circumambulate, and ſee</l>
+               <l>
+                  <hi>Morefields</hi> and <hi>Iſlington</hi> without a fee.</l>
+               <l>No more henceforth ſhall th' <hi>Surry</hi> Cavaliers</l>
+               <l>Go home and ſhake their <hi>heads</hi> without their
+<hi>eares.</hi>
+               </l>
+               <l>All troubled waters now ſhall to their ſprings</l>
+               <l>Returne, and <hi>one</hi> raigne, not <hi>five hundred</hi> Kings.</l>
+            </lg>
+            <lg>
+               <l>Yet all this while we erre, and accuſe <hi>Fate,</hi>
+               </l>
+               <l>When <hi>he</hi> his <hi>own</hi> end did accelerate;</l>
+               <l>For having drunk a <hi>ſcruple</hi> over-night</l>
+               <l>Of <hi>jealouſies</hi> and <hi>fears,</hi> he took his flight.</l>
+               <l>Thus <hi>Hanniball,</hi> and thoſe heroick blades,</l>
+               <l>Minding an eaſie way to get to th' Shades,</l>
+               <l>Made uſe o'th' <hi>Druggiſts</hi> Art, and to provide</l>
+               <l>'Gainſt future vengeance, drunk their <hi>doſſe,</hi> and di'd.</l>
+            </lg>
+         </div>
+         <div n="Lord Mayor" type="epitaph">
+            <pb n="4" facs="tcp:117302:4"/>
+            <head>An Epitaph on the Mayor, &amp;c.</head>
+            <lg>
+               <l>VNder this Tomb-ſtone lies a thing,</l>
+               <l>Enemy both to <hi>Church</hi> and <hi>King.</hi>
+               </l>
+               <l>No <hi>Protestant,</hi> and yet no <hi>Papist,</hi>
+               </l>
+               <l>A <hi>Puritan,</hi> and yet an <hi>Atheiſt.</hi>
+               </l>
+               <l>For <hi>Magiſtracy</hi> a grand ſtickler,</l>
+               <l>Yet a moſt zealous <hi>Conventickler:</hi>
+               </l>
+               <l>One that for <hi>Chriſt</hi> would live and die,</l>
+               <l>(Yet kept no <hi>Chriſt-tide</hi> verily.)</l>
+               <l>One that the <hi>Prophets</hi> ſlew, and took</l>
+               <l>Th' <hi>Apostles badge</hi> from out the Booke.</l>
+               <l>One that the <hi>Rubrick</hi> took away,</l>
+               <l>And gave th' Apprentices Tueſday.</l>
+               <l>One that did <hi>every thing amiſse,</hi>
+               </l>
+               <l>Then riddle me, riddle me, who was this?</l>
+            </lg>
+         </div>
+         <div n="Lord Mayor's horse" type="epitaph">
+            <head>An Epitaph on my Lord Mayors Horſe.</head>
+            <lg>
+               <l>HEre in this <hi>Oyle-Tub</hi> (Reader ſtand aloofe)</l>
+               <l>Lies great <hi>Bucephalus,</hi> beware his hoofe;</l>
+               <l>Who out of a <hi>good nature</hi> needs would die,</l>
+               <l>Meerly to keep his Maſter company.</l>
+               <l>
+                  <hi>Bay</hi> was his name, ſome call'd him,
+<hi>Roſemary,</hi>
+               </l>
+               <l>For his victorious feats, and Chivalry:</l>
+               <l>But if he had no name, the Bulks and Shambles</l>
+               <l>Would ſpeak him famous for his <hi>Chriſtmaſse</hi> Gambolls:</l>
+               <l>When from an <hi>Amble</hi> to a <hi>Trot</hi> anon</l>
+               <l>Bravely he <hi>trod</hi> down Superſtition.</l>
+               <l>For which rare ſervice 'tis decreed he lie</l>
+               <l>
+                  <hi>Pickled</hi> and <hi>Powder'd</hi> for Poſterity.</l>
+               <l>And live by this Inſcription (ſomewhat courſe)</l>
+               <l>Down went the <hi>Popiſh Rites, Grammercy Horſe.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="discourse">
+            <pb n="5" facs="tcp:117302:4"/>
+            <head>A Dialogicall brief Diſcourſe be<g ref="char:EOLhyphen"/>tween
+<hi>Rainsborough</hi> and <hi>Charon,</hi> at their meeting, <hi>Octob.</hi>
+29. 1648.</head>
+            <sp>
+               <speaker>Cha<g ref="char:EOLhyphen"/>ron.</speaker>
+               <l>WElcome to th' ſhades; hail Brother
+<hi>Rainſbo<g ref="char:EOLhyphen"/>rough:</hi>
+               </l>
+               <l>
+                  <hi>I</hi> am a <hi>Boat-man,</hi> ſo were you.</l>
+               <l>Moſt opportunely! See th' triumphant <hi>Mayor;</hi>
+               </l>
+               <l>(No leſſe a man) is our firſt fare.</l>
+               <l>Had you not come, his Honour had (by <hi>Styx</hi>)</l>
+               <l>Fairl' in a <hi>Sculler</hi> gone t' Old <hi>Nick</hi>'s.</l>
+            </sp>
+            <sp>
+               <speaker>Rainſb.</speaker>
+               <l>Now he may ride in <hi>Oares</hi>—forbeare; alas,</l>
+               <l>He that you ſpeak of may not paſſe.</l>
+               <l>What will Iudge <hi>Rhadamanth</hi> and <hi>Minos</hi> ſay,</l>
+               <l>If we th'
+<note n="*" place="margin">Arrreſted by a Knight whoſe ſonne was ſlain in the late bic<g ref="char:EOLhyphen"/>kering in London.</note> arreſted Corps convey?</l>
+               <l>I that on Earth was <hi>above</hi> Law, yet know</l>
+               <l>How to conforme my ſelf <hi>below.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Charon.</speaker>
+               <l>Hum! I have loſt my <hi>Naula;</hi> let it go;</l>
+               <l>Now to your buſineſſe <hi>Rainſborough.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Rainſb.</speaker>
+               <l>Know then, that I from th'Engliſh Coaſt am ſent</l>
+               <l>By th'<hi>States,</hi> to know your Government.</l>
+               <l>And e're the <hi>Vote</hi> paſſe, hence muſt have command,</l>
+               <l>That the new <hi>Anarchy</hi> may ſtand:</l>
+               <l>Speak <hi>Charon,</hi> ſpeak; if <hi>Pluto</hi> think it good,</l>
+               <l>I have already ſeal'd it with my blood.</l>
+            </sp>
+            <sp>
+               <speaker>Charon.</speaker>
+               <l>Dull <hi>Man,</hi> or <hi>Ghoſt;</hi> or whatſoe're thou art,</l>
+               <l>Thou think'ſt to <hi>alienate</hi> my heart:</l>
+               <l>Know'ſt not we have a Prince; and though the
+<hi>Devill,</hi>
+               </l>
+               <l>One that abjures all you that <hi>Levell?</hi>
+               </l>
+               <l>You that incroach, my Office to enjoy;</l>
+               <l>Were you not once a <hi>Skippers Boy?</hi>
+               </l>
+               <l>By all th'infernall gods, lay by thy <hi>Spade,</hi>
+               </l>
+               <l>Or be ſuſpected guilty <hi>Hell</hi> t'invade.</l>
+            </sp>
+            <sp>
+               <speaker>Rainſb.</speaker>
+               <l>No more; I yeeld: the Government ſtand,</l>
+               <l>I was but ſent here under-hand)</l>
+               <pb n="6" facs="tcp:117302:5"/>
+               <l>Yet if our <hi>Agents</hi> with you here might try,</l>
+               <l>They would put hard for <hi>Anarchy.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Charon.</speaker>
+               <l>
+                  <hi>Anarchy?</hi> Hell and Furies! ſuch a word</l>
+               <l>Once more, and thou go'ſt <hi>over-board.</hi>
+               </l>
+               <l>
+                  <hi>Belzebub,</hi> if he knew thee at this height,</l>
+               <l>Would have thee <hi>carbonado'd</hi> ſtreight.</l>
+               <l>Leave us—and yet I'le write thy <hi>Epitaph,</hi>
+               </l>
+               <l>Meerly to make the Devill laugh.</l>
+               <l>For, by the <hi>Rabbies</hi> leave, without controule,</l>
+               <l>'Twas not a
+<note n="*" place="margin">
+                     <hi>So</hi> Walker <hi>upon</hi> Tho. Rainsbo<g ref="char:EOLhyphen"/>rough, <hi>he that from an</hi> Ironmon<g ref="char:EOLhyphen"/>ger <hi>became a</hi> Newes<g ref="char:EOLhyphen"/>monger, <hi>&amp; now makes</hi> Hebrew Pot-hooks <hi>and</hi> And<g ref="char:EOLhyphen"/>irons
+<hi>cum privilegio.</hi>
+                  </note> Fire removed his pure Soule.</l>
+            </sp>
+         </div>
+         <div n="Thomas Rainsborough (or Rainborowe or Rainborow)" type="epitaph">
+            <head>Epitaph.</head>
+            <lg>
+               <l>WEitring in blood ſee here an <hi>Horſe-leech</hi> ſprawll,</l>
+               <l>
+                  <hi>Glutted</hi> and overcharg'd, yet loath to
+<hi>fall;</hi>
+               </l>
+               <l>Bred up 'ith <hi>Ocean;</hi> lately crept to th'
+<hi>ſhore,</hi>
+               </l>
+               <l>(Though he had <hi>all,</hi> yet covetous of
+<hi>more</hi>)</l>
+               <l>Which when the wiſe Phiſitian ſaw, his thirſt</l>
+               <l>That 'twas unſatiable, let him burſt:</l>
+               <l>So having <hi>empti'd</hi> and <hi>diſgorg'd</hi> his Maw,</l>
+               <l>Hence through the <hi>Rubick</hi> ſea he ſwam away.</l>
+               <l>Feare not <hi>Coicheſtrian Dames,</hi> left <hi>Lucas</hi>
+'riſe;</l>
+               <l>Veng'ance is fully paid; <hi>Here Rainsb'rough lies.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
